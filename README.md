@@ -1,4 +1,4 @@
-# Design draft of MultiVAC
+# MultiVAC Design
 Notes on the design draft
 
 We are fortunate to have a strong community growing with us.
